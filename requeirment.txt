@@ -1,3 +1,0 @@
-import os
-a=os.popen("pip install selenium").read()
-print(a)
